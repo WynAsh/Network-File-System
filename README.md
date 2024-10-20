@@ -1,9 +1,6 @@
-# final-project-040
-
-
-
 # Network File System
-## Group 40
+
+Creating a Network File System fully in C using system calls, complete with a naming server, Storage Server and multiple client handling
 
 ### Instructions:
 1. Open 1 terminal window for the naming server
